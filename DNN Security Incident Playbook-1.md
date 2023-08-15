@@ -11,7 +11,7 @@ Running notes on things I still need to add/validate in content:
    - Importance of DNN security
    - Goals and scope of the playbook
 
-## 2. Threat Landscape
+## 2. [Threat Landscape](#Chapter 2: Threat Landscape)
    - Common security threats to DNN installations
      - Cross-site scripting (XSS) attacks
      - SQL injection vulnerabilities
@@ -115,3 +115,34 @@ The primary goal of this DotNetNuke (DNN) Security Playbook is to provide a comp
 Throughout this playbook, we will cover practical strategies, best practices, and actionable recommendations to strengthen the security posture of your DNN deployments. By following the guidelines presented here, you can minimize the risks associated with running DNN websites and applications, and ensure that your online platforms remain resilient against a variety of cyber threats.
 
 In the subsequent chapters, we will explore the common security threats faced by DNN installations, dive into the strategies for secure development and deployment, discuss data privacy considerations, and provide insights into regulatory compliance and incident response. It is our hope that this playbook will serve as an invaluable resource to help you build and maintain secure DNN environments in an ever-evolving digital landscape.
+
+
+# Chapter 2: Threat Landscape
+
+## Common Security Threats to DNN Installations
+
+DotNetNuke (DNN) installations, like any other web-based systems, are vulnerable to a variety of security threats. Understanding these threats is crucial to implementing effective security measures. Some common security threats to DNN installations include:
+
+1. **Cross-site Scripting (XSS) Attacks:** Attackers inject malicious scripts into web pages viewed by other users. This can lead to the theft of sensitive data, session hijacking, and more.
+
+2. **SQL Injection Vulnerabilities:** Attackers manipulate input fields to execute malicious SQL queries, potentially gaining unauthorized access to the database or leaking sensitive information.
+
+3. **Cross-site Request Forgery (CSRF) Attacks:** Attackers trick users into performing unwanted actions without their consent by exploiting their authenticated sessions.
+
+4. **Unauthorized Access and Data Breaches:** Weak authentication mechanisms and access control can lead to unauthorized users gaining access to sensitive data or system resources.
+
+## Real-World Examples of DNN Security Incidents
+
+Several high-profile security incidents involving DotNetNuke installations have highlighted the importance of robust security practices:
+
+1. **XSS Attack on DNN Software Website:** In a well-known incident, the official DNN Software website fell victim to an XSS attack. Attackers injected malicious scripts, potentially affecting users who visited the compromised pages.
+
+2. **DNN Platform Vulnerabilities:** Various versions of the DNN platform have been found to contain vulnerabilities, such as SQL injection and arbitrary file upload flaws, potentially exposing websites to malicious activities.
+
+3. **Module Vulnerabilities:** Third-party DNN modules can introduce vulnerabilities if not properly vetted. In the past, some modules were discovered to have security weaknesses that could be exploited by attackers.
+
+## Importance of Understanding the Threat Landscape
+
+Awareness of the threat landscape is a crucial first step in building a secure DNN environment. By understanding the types of vulnerabilities and attack vectors that can target DNN installations, you can proactively implement measures to mitigate these risks.
+
+In the upcoming chapters, we will delve deeper into specific security threats and explore strategies to defend against them. By addressing the vulnerabilities and attack vectors mentioned above, you can build a resilient and secure DNN installation that safeguards both your organization and your users.
