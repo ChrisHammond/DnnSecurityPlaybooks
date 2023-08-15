@@ -3,4 +3,4 @@ This project is something I'm playing with using ChatGPT for the initial creatio
 
 Want to have some fun and provide some security help for the DNN project? Fork and modify this content!
 
-[First Playbook](https://github.com/ChrisHammond/DnnSecurityPlaybooks/blob/main/DNNSecurityIncidentPlaybook-1.md)
+[DNN Security Overview](https://github.com/ChrisHammond/DnnSecurityPlaybooks/blob/main/DNNSecurityOverview.md)
