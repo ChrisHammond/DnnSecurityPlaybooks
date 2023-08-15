@@ -12,7 +12,7 @@ Running notes on things I still need to add/validate in content:
    - Goals and scope of the playbook
 
 ## 2. Threat Landscape 
-[Test Link](#chapter-2)
+[Test Link](#chapter-2-threat-landscape)
    - Common security threats to DNN installations
      - Cross-site scripting (XSS) attacks
      - SQL injection vulnerabilities
