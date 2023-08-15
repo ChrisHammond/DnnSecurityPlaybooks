@@ -11,7 +11,7 @@ Running notes on things I still need to add/validate in content:
    - Importance of DNN security
    - Goals and scope of the playbook
 
-## 2. [Threat Landscape](#Chapter 2: Threat Landscape)
+[## 2. Threat Landscape](#Chapter 2: Threat Landscape)
    - Common security threats to DNN installations
      - Cross-site scripting (XSS) attacks
      - SQL injection vulnerabilities
