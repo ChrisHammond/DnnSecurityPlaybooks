@@ -25,65 +25,64 @@ Running notes on things I still need to add/validate in content:
    - Securing default user accounts and roles
    - Hardening the DNN platform against attacks
 
-## 4. User and Role Management
+## 4. [User and Role Management](#chapter-4-user-and-role-management)
    - Implementing strong authentication mechanisms
    - Role-based access control (RBAC) for DNN modules
    - User account management best practices
    - Password policies and account lockout mechanisms
 
-## 5. Data Protection and Privacy
+## 5. [Data Protection and Privacy](#chapter-5-data-protection-and-privacy)
    - Secure handling and storage of sensitive data
    - Encryption and hashing techniques for data protection
    - Compliance with data privacy regulations (e.g., GDPR)
    - Minimizing data exposure through proper permissions
 
-## 6. Module Security
+## 6. [Module Security](#chapter-6-module-security)
    - Reviewing and vetting third-party DNN modules
    - Secure coding practices for custom module development
    - Regular updates and patches for modules
    - Sandboxing and isolating modules for enhanced security
 
-## 7. Secure Theming and Skinning
+## 7. [Secure Theming and Skinning](#chapter-7-secure-theming-and-skinning)
    - Evaluating and using trusted themes and skins
    - Preventing common security vulnerabilities in themes
    - Validating user-generated content within themes
    - Maintaining consistent security during theme updates
 
-## 8. Secure Extension Points
+## 8. [Secure Extension Points](#chapter-8-secure-extension-points)
    - Understanding extension points and their security implications
    - Securing DNN APIs and web services
    - Implementing input validation and output encoding
    - Preventing privilege escalation through extensions
 
-## 9. Security Auditing and Monitoring
+## 9. [Security Auditing and Monitoring](#chapter-9-security-auditing-and-monitoring)
    - Implementing regular security audits for DNN installations
    - Monitoring logs and events for signs of security breaches
    - Intrusion detection and response strategies
    - Establishing incident response plans for DNN security incidents
 
-## 10. Performance vs. Security Trade-offs
+## 10. [Performance vs. Security Trade-offs](#chapter-10-performance-vs-security-trade-offs)
    - Balancing performance requirements with security measures
    - Implementing caching and optimization without compromising security
    - Regularly assessing and adjusting security configurations
 
-## 11. Training and Awareness
+## 11. [Training and Awareness](#chapter-11-training-and-awareness)
    - Security training for DNN administrators and developers
    - Raising awareness about DNN security risks and best practices
    - Encouraging proactive security measures within the organization
 
-## 12. Regulatory Compliance and Legal Considerations
+## 12. [Regulatory Compliance and Legal Considerations](#chapter-12-regulatory-compliance-and-legal-considerations)
    - Compliance with relevant industry standards (e.g., HIPAA, PCI DSS)
    - Addressing legal implications of DNN security incidents
    - Navigating liability and responsibilities in case of breaches
 
-## 13. Conclusion
+## 13. [Conclusion](#chapter-13-conclusion)
    - Recap of key takeaways
    - Emphasizing the continuous nature of DNN security efforts
 
-## 14. References and Resources
+## 14. [References and Resources](#chapter-14-references-and-resources)
    - Citations for relevant security guidelines and resources
    - Further reading and tools for enhancing DNN security
-
 
 
 # Chapter 1: Introduction to DNN Security
